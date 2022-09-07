@@ -2,7 +2,7 @@
 - 👀 I’m interested in product/project management
 - 🌱 I’m currently learning product management
 - 💞️ I’m looking to collaborate on product developments
-- 📫 How to reach me angomustee@gmail.com
+- 📫 How to reach me hello@angomustee.me
 
 <!---
 angomustee/angomustee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
